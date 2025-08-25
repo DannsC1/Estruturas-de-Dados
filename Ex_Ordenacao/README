@@ -1,0 +1,9 @@
+Projeto de Ordenação em Java
+Este trabalho foi desenvolvido como parte da disciplina de Estrutura de Dados, com o intuito de implementar dois algoritmos clássicos de ordenação utilizando a linguagem Java.
+
+Algoritmos implementados
+BubbleSort – presente na classe OrdenacaoBubble.java
+
+MergeSort – implementado em OrdenacaoMerge.java
+
+Após a criação das bibliotecas, foi desenvolvido um programa que aplica esses algoritmos na resolução dos exercícios 1, 2 e 3 propostos pela disciplina.
